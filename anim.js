@@ -6,7 +6,7 @@ var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
   { text: "Your morning eyes", time: 18-3-8 },
   { text: "I could stare like watching stars", time: 19.5-3-10 },
-  { text: "I could walk you be,", time: 23-3-7 },
+  { text: "I could walk you by,", time: 23-3-7 },
   { text: "and I'll tell without a thought", time: 27-3-10 },
   { text: "You'd be mine, would you mind", time: 31-3-10 },
   { text: "if I took your hand tonight?", time: 33-3-10-1 },
