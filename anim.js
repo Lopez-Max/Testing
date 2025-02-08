@@ -4,8 +4,8 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Your morning eyes", time: 6 },
-  { text: "I could stare like watching stars", time: 8 },
+  { text: "Your morning eyes", time: 4 },
+  { text: "I could stare like watching stars", time: 6 },
   { text: "I could walk you by,", time: 23-3-7 },
   { text: "and I'll tell without a thought", time: 27-3-10 },
   { text: "You'd be mine, would you mind", time: 31-3-10 },
