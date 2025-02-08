@@ -7,7 +7,7 @@ var lyricsData = [
   { text: "Your morning eyes", time: 5 },
   { text: "I could stare like watching stars", time: 6 },
   { text: "I could walk you by,", time: 23-3-7 },
-  { text: "and I'll tell without a thought", time: 27-3-13 },
+  { text: "and I'll tell without a thought", time: 27-3-12 },
   { text: "You'd be mine, would you mind", time: 31-3-10 },
   { text: "if I took your hand tonight?", time: 33-3-10-1 },
   { text: "Know you're all that I want this life", time: 38-3-10 },
